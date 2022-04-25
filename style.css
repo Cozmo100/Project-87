@@ -1,0 +1,25 @@
+body 
+{
+    background-image:url(https://www.teahub.io/photos/full/225-2259018_outer-space-wallpapers-universe-desktop-background.jpg);
+    background-repeat: no-repeat;
+    
+}
+#mc
+{
+    border-width:10px;
+    background-color: white; 
+    border: 3px solid white;
+}
+
+
+i {
+    font-family: monospace;
+    color: white;
+}
+
+#title {
+    font-family: monospace;
+    color: white;
+    text-decoration: underline;
+    font-size: 40px;
+}
